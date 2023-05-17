@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// entab
+
 #define TAB 8
 
 int main(void)

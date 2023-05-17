@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//detab
+
 #define TAB 8
 
 // tab - (count % tab)
